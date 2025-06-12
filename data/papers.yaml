@@ -1,0 +1,27 @@
+working_papers:
+
+  - title: "A Practical Guide to Estimating Conditional Marginal Effects: Modern Approaches"
+    author_info: "with Jiehan Liu and Ziyi Liu. Prepared for *Elements in Quantitative and Computational Methods for the Social Sciences*, Cambridge University Press."
+    description: |
+      This Element offers a practical guide to estimating conditional marginal effects—how treatment effects vary with a moderating variable—using modern statistical methods. Commonly used approaches, such as linear interaction models, often suffer from unclarified estimands, limited overlap, and restrictive functional forms. This guide begins by clearly defining the estimand and presenting the main identification results. It then reviews and improves upon existing solutions, such as the semiparametric kernel estimator, and introduces robust estimation strategies, including augmented inverse propensity score weighting with Lasso selection (AIPW-Lasso) and double machine learning (DML) with modern algorithms. Each method is evaluated through simulations and empirical examples, with practical recommendations tailored to sample size and research context. All tools are implemented in the accompanying **interflex** package for R.
+    links:
+      - name: arXiv
+        url: https://arxiv.org/pdf/2504.01355
+      - name: SSRN
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201566
+
+
+
+
+peer_reviewed_articles:
+
+  - title:  "Causal Panel Analysis under Parallel Trends: Lessons from A Large Reanalysis Study"
+    author_info: "with Albert Chiu, Xingchen Lan, and Ziyi Liu. *American Political Science Review*, forthcoming"
+    description: |
+      Two-way fixed effects (TWFE) models are widely used in political science to establish causality, but recent methodological discussions highlight their limitations under heterogeneous treatment effects (HTE) and violations of the parallel trends (PT) assumption. This growing literature has introduced numerous new estimators and procedures, causing confusion among researchers about the reliability of existing results and best practices. To address these concerns, we replicated and reanalyzed 49 studies from leading journals using TWFE models for observational panel data with binary treatments. Using six HTE-robust estimators, diagnostic tests, and sensitivity analyses, we find: (i) HTE-robust estimators yield qualitatively similar but highly variable results; (ii) while a few studies show clear signs of PT violations, many lack evidence to support this assumption; and (iii) many studies are underpowered when accounting for HTE and potential PT violations. We emphasize the importance of strong research designs and rigorous validation of key identifying assumptions.
+    links:
+      - name: Open Access
+        url:  https://www.cambridge.org/core/services/aop-cambridge-core/content/view/219275E0CE901F099F2CFFBA07079243/S0003055425000243a.pdf/causal-panel-analysis-under-parallel-trends-lessons-from-a-large-reanalysis-study.pdf
+      - name: Pre-Print
+        url:  https://yiqingxu.org/papers/english/2023_panel/CLLX.pdf
+
