@@ -35,10 +35,16 @@ social:
 #  link: 'mailto: tpchen@asu.edu'
 - icon: twitter
   icon_pack: fab
+  name: twitter
   link: https://x.com/tipengchen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
+  name: google scholar
   link: https://scholar.google.com/citations?user=vW2PJyIAAAAJ&hl=en
+
+#- icon: graduation-cap
+#  icon_pack: fas
+#  link: https://scholar.google.com/citations?user=vW2PJyIAAAAJ&hl=en
   
 #- icon: github
 #  icon_pack: fab
@@ -46,13 +52,15 @@ social:
   
 - icon: instagram
   icon_pack: fab
+  name: instagram
   link:  https://www.instagram.com/chentipeng/
   
 - icon: linkedin
   icon_pack: fab
+  name: linkedin
   link: https://www.linkedin.com/in/tipeng-chen-73b589107/
 
-- icon: academicons/CV
+- icon: CV
   icon_pack: ai
   name: Curriculum Vitae
   link: uploads/cv.pdf
@@ -69,6 +77,6 @@ His current research focuses on public management, citizen-state interaction, pu
 
 Prior to joining ASU, I received his master's degree and bachelor's degree from Sun Yat-sen University in 2022 and 2019. My previous research centered on common-pool resources governance and institutional analysis, with a specific focus on water resources.
 
-Please feel free to reach me at tpchen[at]asu[dot]edu.
+Please feel free to reach me at tpchen [at] asu [dot] edu.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
