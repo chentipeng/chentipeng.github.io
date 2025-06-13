@@ -27,8 +27,6 @@ organizations:
 - name: Arizona State University
   url: https://search.asu.edu/profile/4146540
 
-title: Tipeng Chen | 陈逖鹏
-
 name: Tipeng Chen 陈逖鹏
 role: Ph.D. Candidate in Public Administration and Policy  
 
@@ -72,7 +70,7 @@ social:
   
 superuser: true
 
-title: 
+title: Tipeng Chen | 陈逖鹏
 ---
 
 
@@ -84,4 +82,6 @@ Prior to joining ASU, I received my master's degree and bachelor's degree from S
 
 Please feel free to reach me at tpchen [at] asu [dot] edu.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+<!--
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+-->
