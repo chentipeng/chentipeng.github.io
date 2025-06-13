@@ -33,15 +33,22 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto: tpchen@asu.edu'
-- icon: twitter
-  icon_pack: fab
-  name: twitter
-  link: https://x.com/tipengchen
+
+- icon: cv
+  icon_pack: ai
+  name: Curriculum Vitae
+  link: uploads/cv.pdf
+
 - icon: google-scholar
   icon_pack: ai
   name: google scholar
   link: https://scholar.google.com/citations?user=vW2PJyIAAAAJ&hl=en
-
+  
+- icon: twitter
+  icon_pack: fab
+  name: twitter
+  link: https://x.com/tipengchen
+  
 #- icon: graduation-cap
 #  icon_pack: fas
 #  link: https://scholar.google.com/citations?user=vW2PJyIAAAAJ&hl=en
@@ -59,11 +66,6 @@ social:
   icon_pack: fab
   name: linkedin
   link: https://www.linkedin.com/in/tipeng-chen-73b589107/
-
-- icon: cv
-  icon_pack: ai
-  name: Curriculum Vitae
-  link: uploads/cv.pdf
   
 superuser: true
 
@@ -73,10 +75,10 @@ title:
 
 I am a Ph.D. candidate in Public Administration and Policy at the [School of Public Affairs](https://spa.asu.edu/), Arizona State University, and a Graduate Research Assistant in the Center for Science, Technology and Environmental Policy Studies ([CSTEPS](https://csteps.asu.edu/)).
 
-His current research focuses on public management, citizen-state interaction, public employee wellbeing, local government, and climate adaptation. His most recent projects are examining the implication of organizational setting and work characteristics on interaction between public organization and citizens as well as how public organizations address climate challenges to ensure public service delivery and organizational survival.  He is also interested in qualitative methods, survey methods. My research has been published in interdisciplnary outlets such as *PlOS ONE*, *International Journal of the Commons*, *Water Alternatives*, *Vaccines*, and *Women's Health Reports*.
+My research focuses on public management, citizen–state interaction, public employee well-being, local government, and climate adaptation. My dissertation examines how public participation and community outreach shape public employees’ psychological states and workplace behaviors. In addition, my ongoing projects explore how public organizations respond to external uncertainties, such as extreme weather events and emerging technologies, to ensure organizational resilience and sustain public service delivery. I am also interested in survey and experimental methods. My work has been published in interdisciplinary outlets, such as *PlOS ONE*, *International Journal of the Commons*, *Water Alternatives*, *Vaccines*, and *Women's Health Reports*.
 
-Prior to joining ASU, I received his master's degree and bachelor's degree from Sun Yat-sen University in 2022 and 2019. My previous research centered on common-pool resources governance and institutional analysis, with a specific focus on water resources.
+Prior to joining ASU, I received my master's degree and bachelor's degree from Sun Yat-sen University in 2022 and 2019. My previous research centered on common-pool resources governance and institutional analysis, with a specific focus on water resources.
 
 Please feel free to reach me at tpchen [at] asu [dot] edu.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
