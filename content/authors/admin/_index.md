@@ -15,7 +15,7 @@ education:
     
 email: "tpchen@asu.edu"
 
-highlight_name: false
+highlight_name: true
 
 interests:
 - Public management
