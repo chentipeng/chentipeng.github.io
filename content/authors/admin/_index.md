@@ -26,7 +26,10 @@ interests:
 organizations:
 - name: Arizona State University
   url: https://search.asu.edu/profile/4146540
-  
+
+title: Tipeng Chen | 陈逖鹏
+
+name: Tipeng Chen 陈逖鹏
 role: Ph.D. Candidate in Public Administration and Policy  
 
 social:
