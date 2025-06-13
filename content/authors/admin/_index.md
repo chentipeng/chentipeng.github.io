@@ -60,7 +60,7 @@ social:
   name: linkedin
   link: https://www.linkedin.com/in/tipeng-chen-73b589107/
 
-- icon: CV
+- icon: cv
   icon_pack: ai
   name: Curriculum Vitae
   link: uploads/cv.pdf
