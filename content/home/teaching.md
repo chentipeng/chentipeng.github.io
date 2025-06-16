@@ -30,9 +30,9 @@ experience:
         
     description: |2-
 
-      ### Public Service Ethics
+      ### PAF 460: Public Service Ethics _(Spring 2026)_
 
-       ###### Overview _(Spring 2026)_
+       ###### Overview
 
        Ethical dilemmas are a recurring challenge across various sectors, including business, education, technology, and public service. From questions about data privacy and artificial intelligence to public scandals involving misuse of power, ethics remain a central concern in public life. Public organizations, in particular, are under constant scrutiny as the actions of public officials carry significant moral and societal implications.
 
