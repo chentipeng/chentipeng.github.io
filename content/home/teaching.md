@@ -49,9 +49,9 @@ experience:
       - Develop skills in managing ethics within public organizations  
       - Learn to apply ethical reasoning to the consideration of public policy issues
 
-    <!-- [Lecture 1.](https://www.bilibili.com) Difference-in-Differences and Fixed Effects Models. -->
+      <!-- [Lecture 1.](https://www.bilibili.com) Difference-in-Differences and Fixed Effects Models. -->
       
-    <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
+      <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
         
 
   -  title: Teaching Assistant
@@ -61,10 +61,10 @@ experience:
         
     description: |2-
 
-      #### PAF 560: Community Resilience  
+      ##### PAF 560: Community Resilience  
       _Summer 2024_
 
-      #### PAF 160: Surviving the 21st Century  
+      ##### PAF 160: Surviving the 21st Century  
       _Summer 2025_
         
 
