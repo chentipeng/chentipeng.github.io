@@ -24,40 +24,9 @@ date_format: Jan 2006
 experience:
 
   -  title: Teaching Assistant
-      links: 
-      - name: Syllabus
-        url: https://www.bilibili.com
-        
-    description: |2-
-
-      ##### Overview
-
-      Ethical dilemmas are a recurring challenge across various sectors, including business, education, technology, and public service. From questions about data privacy and artificial intelligence to public scandals involving misuse of power, ethics remain a central concern in public life. Public organizations, in particular, are under constant scrutiny as the actions of public officials carry significant moral and societal implications.
-
-      As a public manager, you will face difficult ethical choices that may relate to your relationship with a democratically elected legislative body, your relationship to citizens and community groups, matters of conscience, matters of regulation, and the ethical ramifications of public policy recommendations in which you are involved. Understanding the moral implications of your actions and resolving the dilemmas they pose are among the most difficult problems you will face in the public sector.
-
-      In this class, we will examine a variety of ethical issues faced by public managers. Some involve concerns that might arise in any organization—cases of lying, cheating, or stealing, or questions about what to do when you feel compelled to refuse an order from your boss. Others are more directly connected to the special values that underlie public service, involving the relationship between political leaders and career civil servants or between competing demands for efficiency and responsiveness. In all cases, the issues will be bound to the moral context of public service.
-
-      ##### Course Objectives
-
-      - Enhance understanding of the moral foundations of public service  
-      - Examine the relationship between democratic values and the practice of public administration, including issues of accountability and responsiveness  
-      - Develop an awareness of specific ethical issues and problems within the field of public administration  
-      - Build the capacity for ethical decision-making  
-      - Understand the values at play in the relationship between administrators and citizens  
-      - Develop a practical understanding of the constraints on and expectations of public administrators  
-      - Develop skills in managing ethics within public organizations  
-      - Learn to apply ethical reasoning to the consideration of public policy issues
-
-      <!-- [Lecture 1.](https://www.bilibili.com) Difference-in-Differences and Fixed Effects Models. -->
-      
-      <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
-        
-
-  -  title: Teaching Assistant
-    #links: 
-    # - name: Youtube
-    #   url: https://www.youtube.com
+    links: 
+     - name: Youtube
+       url: https://www.youtube.com
         
     description: |2-
 
