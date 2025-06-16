@@ -9,10 +9,10 @@ featured: true
 publication: "*International Journal of the Commons, 15(1), 320- 337*"
 tags: [""]
 links: 
-- name: Open Access
+- name: Open Access PDF
   url: Wang&Chen2021.pdf 
 - name: Journal Site
-  url: 10.5334/ijc.1108
+  url: https://doi.org/10.5334/ijc.1108
 ---
   
   
