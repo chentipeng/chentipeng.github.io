@@ -53,13 +53,15 @@ experience:
       
       <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
         
- -  title: Teaching Assistant
+# -  title: Teaching Assistant
     #links: 
     # - name: Youtube
     #   url: https://www.youtube.com
         
     description: |2-
 
+      #### Teaching Assistant
+      
       ###### PAF 560: Community Resilience (_Summer 2024_)
       - Evaluated student assignments
       - Responded to student questions and provided academic support
