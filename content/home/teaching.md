@@ -23,14 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
- -  title: Teaching Assistant
+ -  title: Public Service Ethics
     links: 
      - name: Syllabus
        url: https://www.bilibili.com
         
     description: |2-
 
-      ##### Overview
+      ###### Overview
+      ####### _Spring 2026_
 
       Ethical dilemmas are a recurring challenge across various sectors, including business, education, technology, and public service. From questions about data privacy and artificial intelligence to public scandals involving misuse of power, ethics remain a central concern in public life. Public organizations, in particular, are under constant scrutiny as the actions of public officials carry significant moral and societal implications.
 
@@ -38,7 +39,7 @@ experience:
 
       In this class, we will examine a variety of ethical issues faced by public managers. Some involve concerns that might arise in any organization—cases of lying, cheating, or stealing, or questions about what to do when you feel compelled to refuse an order from your boss. Others are more directly connected to the special values that underlie public service, involving the relationship between political leaders and career civil servants or between competing demands for efficiency and responsiveness. In all cases, the issues will be bound to the moral context of public service.
 
-      ##### Course Objectives
+      ###### Course Objectives
 
       - Enhance understanding of the moral foundations of public service  
       - Examine the relationship between democratic values and the practice of public administration, including issues of accountability and responsiveness  
@@ -60,11 +61,11 @@ experience:
         
     description: |2-
 
-      ##### PAF 560: Community Resilience  
-      _Summer 2024_
+      ###### PAF 560: Community Resilience  
+      ####### _Summer 2024_
 
-      ##### PAF 160: Surviving the 21st Century  
-      _Summer 2025_
+      ###### PAF 160: Surviving the 21st Century  
+      ####### _Summer 2025_
         
 
          
