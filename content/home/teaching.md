@@ -26,7 +26,7 @@ experience:
  -  # title: Public Service Ethics
     links: 
      - name: Syllabus
-       url: https://www.bilibili.com
+       url: Syllabus_PAF 460 Public Service Ethic_ChenSpring2026.pdf
         
     description: |2-
 
@@ -56,9 +56,9 @@ experience:
       <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
         
  -  # title: Teaching Assistant
-    links: 
-     - name: Youtube
-       url: https://www.youtube.com
+    #links: 
+    # - name: Youtube
+    #   url: https://www.youtube.com
         
     description: |2-
 
