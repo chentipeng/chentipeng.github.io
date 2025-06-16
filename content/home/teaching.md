@@ -53,7 +53,7 @@ experience:
       
       <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
         
-# -  title: Teaching Assistant
+ -  # title: Teaching Assistant
     #links: 
     # - name: Youtube
     #   url: https://www.youtube.com
