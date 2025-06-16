@@ -30,8 +30,7 @@ experience:
         
     description: |2-
 
-      ###### Overview
-      ####### _Spring 2026_
+      ###### Overview _(Spring 2026)_
 
       Ethical dilemmas are a recurring challenge across various sectors, including business, education, technology, and public service. From questions about data privacy and artificial intelligence to public scandals involving misuse of power, ethics remain a central concern in public life. Public organizations, in particular, are under constant scrutiny as the actions of public officials carry significant moral and societal implications.
 
@@ -55,17 +54,21 @@ experience:
       <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
         
  -  title: Teaching Assistant
-    links: 
-     - name: Youtube
-       url: https://www.youtube.com
+    #links: 
+    # - name: Youtube
+    #   url: https://www.youtube.com
         
     description: |2-
 
-      ###### PAF 560: Community Resilience  
-      ####### _Summer 2024_
+      ###### PAF 560: Community Resilience (_Summer 2024_)
+      - Evaluated student assignments
+      - Responded to student questions and provided academic support
+      - Curated and shared weekly policy-relevant news updates
 
-      ###### PAF 160: Surviving the 21st Century  
-      ####### _Summer 2025_
+      ###### PAF 160: Surviving the 21st Century (_Summer 2025_)
+      - Evaluated student assignments
+      - Responded to student inquiries and facilitated discussions
+      - Managed and moderated the online discussion board
         
 
          
