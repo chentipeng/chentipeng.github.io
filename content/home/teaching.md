@@ -57,8 +57,8 @@ experience:
         
  -  # title: Teaching Assistant
     #links: 
-    # - name: Youtube
-    #   url: https://www.youtube.com
+     - name: Youtube
+       url: https://www.youtube.com
         
     description: |2-
 
