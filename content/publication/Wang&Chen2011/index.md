@@ -8,8 +8,11 @@ abstract: "The literature on common-pool resources (CPRs) has mostly focused on 
 featured: true
 publication: "*International Journal of the Commons, 15(1), 320- 337*"
 tags: [""]
-url_pdf: "Wang&Chen2021.pdf"
-doi: "10.5334/ijc.1108"
+links: 
+- name: Open Access
+  url: Wang&Chen2021.pdf 
+- name: Journal Site
+  url: 10.5334/ijc.1108
 ---
   
   
