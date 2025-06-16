@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
- -  title: Public Service Ethics
+  -  title: Public Service Ethics
     links: 
       - name: Syllabus
         url: https://www.bilibili.com
