@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
 
   -  title: Public Service Ethics
-     company: Arizona State University
       links: 
       - name: Syllabus
         url: https://www.bilibili.com
