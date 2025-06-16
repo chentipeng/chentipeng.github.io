@@ -23,7 +23,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "5"
+    publication_type: "2"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
