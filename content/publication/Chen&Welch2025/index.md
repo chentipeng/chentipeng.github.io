@@ -1,5 +1,5 @@
 ---
-title: "Contracting Responses to Extreme Weather Events in Public Organizations *"
+title: "Contracting Responses to Extreme Weather Events in Public Organizations"
 date: 2025-01-16
 publishDate: 2025-01-16
 authors: ["Tipeng Chen", "Eric W. Welch"]
