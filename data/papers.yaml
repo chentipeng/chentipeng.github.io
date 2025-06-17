@@ -8,7 +8,7 @@ working_papers:
       - name: SSRN
         url: https://ssrn.com/abstract=5297874 
       - name: Online Appendix
-        url: Chen&Welch2025sm.pdf
+        url: /uploads/Chen&Welch2025sm.pdf
 
   - title: "Serving the Public as Civil Servants or Citizens? Public Employees’ Exposure to Public Participation, Job Satisfaction, and Volunteering"
     author_info: "Tipeng Chen. Under review at *Public Management Review*."
@@ -18,7 +18,7 @@ working_papers:
       - name: SSRN
         url: https://ssrn.com/abstract=5297866
       - name: Online Appendix
-        url: Chen2025sm.pdf
+        url: /uploads/Chen2025sm.pdf
 
   - title: "Generative AI and Academic Scientists in US universities: Perception, Experience, and Adoption Intentions"
     author_info: "Wenceslao Arroyo Machado, Jinghuan Ma, Tipeng Chen, Timothy P. Johnson, Shaika Islam, Lesley Michalegko, and Eric Welch. R&R at *PLOS ONE*."

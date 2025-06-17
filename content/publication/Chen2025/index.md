@@ -11,6 +11,6 @@ links:
 - name: SSRN
   url: https://ssrn.com/abstract=5297866
 - name: Online Appendix
-  url: Chen2025sm.pdf
+  url: /uploads/Chen2025sm.pdf
 ---
 
