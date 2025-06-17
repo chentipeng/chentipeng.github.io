@@ -10,7 +10,7 @@ publication: "*International Journal of the Commons*, 2021, 15(1), 320- 337"
 tags: ["Journal Article"]
 links: 
 - name: Open Access PDF
-  url: Wang&Chen2021.pdf 
+  url: /uploads/Wang&Chen2021.pdf 
 - name: Journal Site
   url: https://10.5334/ijc.1108
 ---

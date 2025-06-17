@@ -10,7 +10,7 @@ publication: "*Water Alternatives*, 2021, 14(2), 350-370"
 tags: [""]
 links: 
 - name: Open Access PDF
-  url: Wang&Chen&Wang2021.pdf 
+  url: /uploads/Wang&Chen&Wang2021.pdf 
 - name: Journal Site
   url: https://www.water-alternatives.org/index.php/alldoc/articles/vol14/v14issue2/632-a14-2-10
 ---
