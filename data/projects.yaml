@@ -1,5 +1,28 @@
 projects:
 
+  - title:  "Public Participation and Public Employee Outcomes"
+    author_info: "Tipeng Chen"
+    description: |2-
+      While public participation’s benefits for public organizations and communities are well recognized, its shadow on the individuals within the organization remains underexplored. This dissertation tends to examine the influence of public participation on outcomes for public employees in three distinct contexts: (1) their interaction with citizens in participation events; (2) their psychological attachment to work; (3) their volunteerism beyond employing organizations. Drawing on a unique longitudinal survey dataset and a nationally representative survey-based video vignette behavioral experiment, this dissertation seeks to answer the following research questions: (1) how does citizen gratitude and mistreatment in public participation events shape public employees’ performance; (2) how does exposure to public participation influence their job satisfaction? (3) how does exposure to public participation affect their voluntary behaviors in border community beyond employing organizations?
+      
+      Funding:
+      - Principle Innovation Grant ($4700) from Watts College, ASU, and Kern Family Foundation
+
+      Output:
+      - Doctoral Dissertation
+
+  - title:  "Extreme Heat, Frontline Public Employees, and Managerial Responses"
+    author_info: "Tipeng Chen, Andrew Bertucci (*PhD Student*), Julia Melkers (Professor)"
+    description: |2-
+      Frontline public servants work tirelessly in extreme heat conditions to ensure the stability of public service delivery to their community. However, little is known about how extreme heat affects their work and themselves and how public organizations buffer the potential negative extreme heat impacts on vulnerable employees.This research draws from job demand and resources theory to address this knowledge gap. The study aims to understand how exposure to extreme heat (e.g, physical stress) and frontline employees' increased heat-related tasks affect public service delivery, and how public organizations provide resources, to reduce frontline public servants' physical and psychological problems. This study employs a qualitative method, collecting data through semistructured interviews with public managers employed by city governments in the Phoenix Metropolitan Area in different service areas.
+      
+      Funding:
+      - JumpStart Grant ($750) from Graduate Student Government, ASU
+
+      Output:
+      - Research paper
+      - Policy report
+
   - title: "A National Survey of U.S. Local Governments Navigating Rising Technology, Civic Engagement, and Environmental Challenges"
     author_info: "Eric W. Welch (*Principal Investigator*), Tipeng Chen (*Project Manager*)."
     description: |2-
@@ -13,8 +36,7 @@ projects:
 
       This research project uses a web survey to study the perceptions and attitudes of public managers and the actions of public organizations in response to these future challenges. The nationally representative sample consists of managers from 650 small- and medium-size city governments across the United States. The sampled cities include (1) a random, proportionally representative sample of 396 municipalities with populations ranging from 25,000 to 99,999 and (2) all 254 cities with populations of 100,000 to 300,000. The targeted managers come from six common departments:  Community development, Finance, Parks and recreation, Police, Public works, Human resources.  
 
-      ###### My Roles
-
+      My Roles: Project Manager
       - Sample frame development  
       - Survey design and administration  
       - IRB management  
@@ -24,8 +46,7 @@ projects:
       - Project administration and coordination  
       - Research papers development and coauthorship  
 
-      ###### Output
-
+      Output:
       - Research papers: [PMRC Chen et al. (2023)](PMRC2024_Chen.pdf), [APPAM Du, Chen & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55651), [APPAM Ma & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55681)  
       - Doctoral dissertation chapter
 
@@ -42,14 +63,14 @@ projects:
       SciOPS is a science communication platform developed by the Center for Science, Technology and Environmental Policy Studies at Arizona State University. SciOPS, consists of a survey panel of randomly selected academic scientists in U.S. R1 universities, connects society with the scientific community by collecting and sharing the broadly representative opinions of U.S.-based STEM academic scientists on timely, critical science and technology issues.
       The SciOPS design includes: 1) recruiting and managing a representative standing panel of over 18,500 members of the STI community from multiple demographics and fields of science and technology; 2) selecting relevant topics for frequent surveys of the panel using a variety of methods explained in detail below; 3) administering rapid online surveys to select members of the panel based on topic area; 4) undertaking high-quality careful review of collected data; 5) developing and displaying infographic representations of the data in accessible, relevant formats, so that users may interact with and share the findings (future design); 6) enabling site users to react immediately through closed-ended queries or short open-ended fields for suggesting new questions or future topics; and 7) ensuring transparency and demonstrating methodological rigor by providing detailed information on our survey processes, potential biases and limitations.
       
-      ###### My Roles: Methodological and Statistical Support
+      My Roles: Methodological and Statistical Support
       - Sample frame collection and validation  
       - Survey design, programming, and administration    
       - Data cleaning, weighting, and management
       - Data analysis and visualization  
       - Development of codebook and survey report
       - Research papers development and coauthorship 
-      
+
     links:
       - name: Website
         url:  https://sci-ops.org/
