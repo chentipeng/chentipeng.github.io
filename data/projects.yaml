@@ -1,20 +1,17 @@
 projects:
 
-  - #title: "A National Survey of U.S. Local Governments Navigating Rising Technology, Civic Engagement, and Environmental Challenges"
-    #author_info: "Eric W. Welch (*Principal Investigator*), Tipeng Chen (*Project Manager*)."
+  - title: "A National Survey of U.S. Local Governments Navigating Rising Technology, Civic Engagement, and Environmental Challenges"
+    author_info: "Eric W. Welch (*Principal Investigator*), Tipeng Chen (*Project Manager*)."
     description: |2-
-      ### PAF 460: Public Service Ethics _(Spring 2026)_
-        ###### Overview
+      Local governments are facing numerous rising grand challenges associated with the turbulent and complex change in technology and environment over the past few years. This research project aims to understand whether and how emerging grand challenges reshape the structure, action, and performance of local governments. It also seeks to explore the underlying organizational, managerial, institutional, political, and environmental determinants for local governments’ different responses (e.g., proactively adapt or reactively respond).  
 
-        Local governments are facing numerous rising grand challenges associated with the turbulent and complex change in technology and environment over the past few years. This research project aims to understand whether and how emerging grand challenges reshape the structure, action, and performance of local governments. It also seeks to explore the underlying organizational, managerial, institutional, political, and environmental determinants for local governments’ different responses (e.g., proactively adapt or reactively respond).  
+      We ask:  
+      - How do public managers anticipate and perceive grand challenges originating from technological revolution and climate change?  
+      - What is the role of public managers in adjusting the behaviors, decisions, procedures, structures, and institutions of local governments in response to the grand challenges?  
+      - Why do certain local governments act more promptly than others?  
+      - How do collaborative mechanisms (i.e., co-production of knowledge) contribute to governmental responses in addressing the grand challenges?  
 
-        We ask:  
-        - How do public managers anticipate and perceive grand challenges originating from technological revolution and climate change?  
-        - What is the role of public managers in adjusting the behaviors, decisions, procedures, structures, and institutions of local governments in response to the grand challenges?  
-        - Why do certain local governments act more promptly than others?  
-        - How do collaborative mechanisms (i.e., co-production of knowledge) contribute to governmental responses in addressing the grand challenges?  
-
-        This research project uses a web survey to study the perceptions and attitudes of public managers and the actions of public organizations in response to these future challenges. The nationally representative sample consists of managers from 650 small- and medium-size city governments across the United States. The sampled cities include (1) a random, proportionally representative sample of 396 municipalities with populations ranging from 25,000 to 99,999 and (2) all 254 cities with populations of 100,000 to 300,000. The targeted managers come from six common departments:  Community development, Finance, Parks and recreation, Police, Public works, Human resources.  
+      This research project uses a web survey to study the perceptions and attitudes of public managers and the actions of public organizations in response to these future challenges. The nationally representative sample consists of managers from 650 small- and medium-size city governments across the United States. The sampled cities include (1) a random, proportionally representative sample of 396 municipalities with populations ranging from 25,000 to 99,999 and (2) all 254 cities with populations of 100,000 to 300,000. The targeted managers come from six common departments:  Community development, Finance, Parks and recreation, Police, Public works, Human resources.  
 
       ###### My Roles
 
@@ -29,11 +26,8 @@ projects:
 
       ###### Output
 
-      - Research papers  
-        [PMRC Chen et al. (2023)](PMRC2024_Chen.pdf)  
-        [APPAM Du, Chen & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55651)  
-        [APPAM Ma & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55681)  
-      - Student dissertation chapter
+      - Research papers: [PMRC Chen et al. (2023)](PMRC2024_Chen.pdf), [APPAM Du, Chen & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55651), [APPAM Ma & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55681)  
+      - Doctoral dissertation chapter
 
     #links:
     #  - name: arXiv
@@ -42,13 +36,21 @@ projects:
     #    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201566
 
 
-  - title:  "Causal Panel Analysis project"
-    author_info: "with Albert Chiu, Xingchen Lan, and Ziyi Liu. *American Political Science Review*, forthcoming"
-    description: |
-      Two-way fixed effects (TWFE) models are widely used in political science to establish causality, but recent methodological discussions highlight their limitations under heterogeneous treatment effects (HTE) and violations of the parallel trends (PT) assumption. This growing literature has introduced numerous new estimators and procedures, causing confusion among researchers about the reliability of existing results and best practices. To address these concerns, we replicated and reanalyzed 49 studies from leading journals using TWFE models for observational panel data with binary treatments. Using six HTE-robust estimators, diagnostic tests, and sensitivity analyses, we find: (i) HTE-robust estimators yield qualitatively similar but highly variable results; (ii) while a few studies show clear signs of PT violations, many lack evidence to support this assumption; and (iii) many studies are underpowered when accounting for HTE and potential PT violations. We emphasize the importance of strong research designs and rigorous validation of key identifying assumptions.
+  - title:  "Scientist Opinion Panel Survey (SciOPS)"
+    author_info: "Eric W. Welch (*Principal Investigator*), Timothy P. Johnson (*Co-PI*), Lesley Michalegko(*Project Manager*), Tipeng Chen (*Project Member*)."
+    description: |2-
+      SciOPS is a science communication platform developed by the Center for Science, Technology and Environmental Policy Studies at Arizona State University. SciOPS, consists of a survey panel of randomly selected academic scientists in U.S. R1 universities, connects society with the scientific community by collecting and sharing the broadly representative opinions of U.S.-based STEM academic scientists on timely, critical science and technology issues.
+      The SciOPS design includes: 1) recruiting and managing a representative standing panel of over 18,500 members of the STI community from multiple demographics and fields of science and technology; 2) selecting relevant topics for frequent surveys of the panel using a variety of methods explained in detail below; 3) administering rapid online surveys to select members of the panel based on topic area; 4) undertaking high-quality careful review of collected data; 5) developing and displaying infographic representations of the data in accessible, relevant formats, so that users may interact with and share the findings (future design); 6) enabling site users to react immediately through closed-ended queries or short open-ended fields for suggesting new questions or future topics; and 7) ensuring transparency and demonstrating methodological rigor by providing detailed information on our survey processes, potential biases and limitations.
+      
+      ###### My Roles: Methodological and Statistical Support
+      - Sample frame collection and validation  
+      - Survey design, programming, and administration    
+      - Data cleaning, weighting, and management
+      - Data analysis and visualization  
+      - Development of codebook and survey report
+      - Research papers development and coauthorship 
+      
     links:
-      - name: Open Access
-        url:  https://www.cambridge.org/core/services/aop-cambridge-core/content/view/219275E0CE901F099F2CFFBA07079243/S0003055425000243a.pdf/causal-panel-analysis-under-parallel-trends-lessons-from-a-large-reanalysis-study.pdf
-      - name: Pre-Print
-        url:  https://yiqingxu.org/papers/english/2023_panel/CLLX.pdf
+      - name: Website
+        url:  https://sci-ops.org/
 
