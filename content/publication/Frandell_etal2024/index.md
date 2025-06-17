@@ -9,7 +9,7 @@ featured: true
 publication: "*Women's Health Reports*, 2024, 5(1)"
 links: 
 - name: Open Access PDF
-  url: Frandell2024.pdf 
+  url: Frandell2024.pdf
 - name: Journal Site
   url: https://doi.org/10.1089/whr.2024.0041
 ---

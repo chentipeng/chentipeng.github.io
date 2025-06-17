@@ -10,8 +10,8 @@ working_papers:
       - name: Online Appendix
         url: Chen&Welch2025sm.pdf
 
-  - title: "Contracting Responses to Extreme Weather Events in Public Organizations"
-    author_info: "Tipeng Chen & Eric Welch. Minor Revision at *Public Administration Review*."
+  - title: "Serving the Public as Civil Servants or Citizens? Public Employees’ Exposure to Public Participation, Job Satisfaction, and Volunteering"
+    author_info: "Tipeng Chen. Under review at *Public Management Review*."
     description: |
       Public employees serve the public interest through their work and often extend this commitment through volunteerism. However, it remains unclear what motivates them to volunteer when their professional roles already fulfill intrinsic prosocial motivations. This article examines how public sector workplace experiences, specifically exposure to public participation and job satisfaction, shape volunteering. Using a survey of local government managers in the U.S., this article finds that public employees’ exposure to public participation is positively associated with their volunteering. Job satisfaction increases the probability of non-volunteers becoming volunteers. Additionally, job satisfaction weakens the positive relationship between public participation exposure and volunteering.
     links:
@@ -35,7 +35,7 @@ working_papers:
 peer_reviewed_articles:
 
   - title:  "Invitation Appeals and STEM Academic Scientists Research Participation: Findings from Six Survey Experiments"
-    author_info: "with Albert Chiu, Xingchen Lan, and Ziyi Liu. *PLOS ONE*, forthcoming"
+    author_info: "Tipeng Chen, Timothy P. Johnson, Jinghuan Ma, Ashlee Frandell, Lesley Michalegko, and Eric W. Welch. *PLOS ONE*, forthcoming"
     description: |
       Survey research is a primary method used to investigate the opinions, perceptions and behaviors of academic scientists. However, little is known about the most successful appeal strategies for eliciting survey participation from these busy, highly educated professionals. Drawing on leverage-salience theory, this study examines the impacts of two sets of invitation appeals—information and representation appeals—on survey response rates among academic scientists in four STEM fields employed at U.S. R1 universities. Findings from six randomized experiments show that the effectiveness of both sets of invitation appeals is mixed and context-dependent, varying based on the polarization and relevance of survey topics, STEM academic scientists’ career stage, and their prior interactions with survey administrators. Specifically, self-representation appeals are most effective for polarized topics when recipients have low community affiliation. Less detailed information appeals are more successful when asking about low relevance topics, particularly for recipients with greater demands on their time, while more detailed information is effective for highly relevant and polarized topics. Additionally, invitations containing more detailed information are effective for first-time recipients in survey panels. This complexity reinforces the importance of designing effective outreach strategies to account for survey topics and recipient characteristics.
     links:
@@ -72,7 +72,7 @@ peer_reviewed_articles:
       This paper examines possible causes, consequences, and potential solutions for addressing vaccine hesitancy in the United States, focusing on the perspectives of academic scientists. By examining the experiences of scientists, who are arguably a critical community in US society, we gain deeper insights into how they understand the complexities of vaccine hesitancy and whether their insights and opinions converge with or diverge from the current literature. We present findings from a national survey of a representative sample of academic scientists from the fields of biology and public health regarding vaccine hesitancy and related topics. Empirical analysis using descriptive, bivariate, and multivariate analyses covers multiple topics, including vaccine controversy, trust in science, causes of vaccine hesitancy, preferred policy and regulatory approaches, risk perceptions, and scientists’ ethics and perceived communication roles. The results highlight a diversity of opinions within the scientific community regarding how to improve science-society communication in regard to vaccines, including the need to be transparent and candid to the public about the risk of vaccines and their research.
     links: 
       - name: Open Access PDF
-        url: Welch2023.pdf 
+        url: Welch2023.pdf
       - name: Journal Site
         url: https://doi.org/10.3390/vaccines11071208
 
@@ -82,7 +82,7 @@ peer_reviewed_articles:
       In 2022, the US Supreme Court decision in Dobbs v. Jackson Women’s Health Organization to overturn federal law safeguarding abortion rights led to considerable national debate on abortion and reproductive rights. We report the findings of a survey of academic scientists’ perspectives regarding abortion rights, state policies, and the impact of the 2022 Supreme Court decision in Dobbs v. Jackson. Furthermore, we look at how academic scientists’ institutions acted to address the Dobbs decision. Using a 2023 cross-sectional survey, we address the following research questions: (i) What are scientists’ views of abortion rights? (ii) How have scientists responded to the 2022 Supreme Court decision in Dobbs v. Jackson Women’s Health Organization? and (iii) How are their views different from that of the general public with regard to Dobbs v. Jackson and abortion rights in general? Findings show that abortion was a key factor influencing scientists’ voting decisions. We also highlight substantial differences between scientists’ perspectives and those of the general population and reveal gender differences of opinions within the scientific community. We conclude by presenting the actions implemented by universities and scholars in response to the Dobbs decision and discuss the implications our results have for both policy and practice.
     links: 
       - name: Open Access PDF
-        url: Frandell2024.pdf 
+        url: Frandell2024.pdf
       - name: Journal Site
         url: https://doi.org/10.1089/whr.2024.0041
 
