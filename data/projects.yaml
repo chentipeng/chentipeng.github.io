@@ -1,14 +1,51 @@
 projects:
 
-  - title: "A Practical Guide project"
-    author_info: "with Jiehan Liu and Ziyi Liu. Prepared for *Elements in Quantitative and Computational Methods for the Social Sciences*, Cambridge University Press."
-    description: |
-      This Element offers a practical guide to estimating conditional marginal effects—how treatment effects vary with a moderating variable—using modern statistical methods. Commonly used approaches, such as linear interaction models, often suffer from unclarified estimands, limited overlap, and restrictive functional forms. This guide begins by clearly defining the estimand and presenting the main identification results. It then reviews and improves upon existing solutions, such as the semiparametric kernel estimator, and introduces robust estimation strategies, including augmented inverse propensity score weighting with Lasso selection (AIPW-Lasso) and double machine learning (DML) with modern algorithms. Each method is evaluated through simulations and empirical examples, with practical recommendations tailored to sample size and research context. All tools are implemented in the accompanying **interflex** package for R.
-    links:
-      - name: arXiv
-        url: https://arxiv.org/pdf/2504.01355
-      - name: SSRN
-        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201566
+  - title: "A National Survey of U.S. Local Governments Navigating Rising Technology, Civic Engagement, and Environmental Challenges"
+    author_info: "Eric W. Welch (*Principal Investigator*), Tipeng Chen (*Project Manager*)."
+    description: |2-
+
+      ###### Overview
+
+      Local governments are facing numerous rising grand challenges associated with the turbulent and complex change in technology and environment over the past few years. This research project aims to understand whether and how emerging grand challenges reshape the structure, action, and performance of local governments. It also seeks to explore the underlying organizational, managerial, institutional, political, and environmental determinants for local governments’ different responses (e.g., proactively adapt or reactively respond).  
+
+      We ask:  
+      - How do public managers anticipate and perceive grand challenges originating from technological revolution and climate change?  
+      - What is the role of public managers in adjusting the behaviors, decisions, procedures, structures, and institutions of local governments in response to the grand challenges?  
+      - Why do certain local governments act more promptly than others?  
+      - How do collaborative mechanisms (i.e., co-production of knowledge) contribute to governmental responses in addressing the grand challenges?  
+
+      This research project uses a web survey to study the perceptions and attitudes of public managers and the actions of public organizations in response to these future challenges. The nationally representative sample consists of managers from 650 small- and medium-size city governments across the United States. The sampled cities include (1) a random, proportionally representative sample of 396 municipalities with populations ranging from 25,000 to 99,999 and (2) all 254 cities with populations of 100,000 to 300,000. The targeted managers come from six common departments:  
+      - Community development director  
+      - Finance director  
+      - Parks and recreation director  
+      - Deputy police chief  
+      - Public works director  
+      - Human resources director  
+
+      ###### My Roles
+
+      - Sample frame development  
+      - Survey design and administration  
+      - IRB management  
+      - Data collection, cleaning, weighting, and management  
+      - Development of codebook and project report  
+      - Research assistant management  
+      - Project administration and coordination  
+      - Research papers development and coauthorship  
+
+      ###### Output
+
+      - Research papers  
+        [PMRC Chen et al. (2023)](/uploads/cv.pdf)  
+        [APPAM Du, Chen & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55651)  
+        [APPAM Ma & Welch (2024)](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55681)  
+      - Student dissertation chapter
+
+    #links:
+    #  - name: arXiv
+    #    url: https://arxiv.org/pdf/2504.01355
+    #  - name: SSRN
+    #    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201566
 
 
   - title:  "Causal Panel Analysis project"

@@ -1,27 +1,90 @@
 working_papers:
 
-  - title: "A Practical Guide to Estimating Conditional Marginal Effects: Modern Approaches"
-    author_info: "with Jiehan Liu and Ziyi Liu. Prepared for *Elements in Quantitative and Computational Methods for the Social Sciences*, Cambridge University Press."
+  - title: "Contracting Responses to Extreme Weather Events in Public Organizations"
+    author_info: "Tipeng Chen & Eric Welch. Minor Revision at *Public Administration Review*."
     description: |
-      This Element offers a practical guide to estimating conditional marginal effects—how treatment effects vary with a moderating variable—using modern statistical methods. Commonly used approaches, such as linear interaction models, often suffer from unclarified estimands, limited overlap, and restrictive functional forms. This guide begins by clearly defining the estimand and presenting the main identification results. It then reviews and improves upon existing solutions, such as the semiparametric kernel estimator, and introduces robust estimation strategies, including augmented inverse propensity score weighting with Lasso selection (AIPW-Lasso) and double machine learning (DML) with modern algorithms. Each method is evaluated through simulations and empirical examples, with practical recommendations tailored to sample size and research context. All tools are implemented in the accompanying **interflex** package for R.
+      Public organizations facing emergencies often coordinate with other local public and non-profit organizations for assistance and response. Yet we know little about the contractual relationships public organizations build with external organizations for emergency responses. Drawing from organizational theories, we explore three organizational factors behind public organization decisions to contract for responses to extreme weather events. Results from agency-level analysis using merged data from three national data sources show that higher levels of managerial uncertainty about extreme weather events are associated with lower contracting for immediate emergency responses, and very high levels of uncertainty are positively associated with contracting for long-term emergency planning. Additionally, greater reliance on contracting for daily services and receipt of dedicated financial resources for extreme weather events are associated with increased contracting for long-term planning. We connect our findings with the contracting and emergency management literatures and discuss limitations and practical implications.
     links:
-      - name: arXiv
-        url: https://arxiv.org/pdf/2504.01355
       - name: SSRN
-        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5201566
+        url: https://ssrn.com/abstract=5297874 
+      - name: Online Appendix
+        url: Chen&Welch2025sm.pdf
 
+  - title: "Contracting Responses to Extreme Weather Events in Public Organizations"
+    author_info: "Tipeng Chen & Eric Welch. Minor Revision at *Public Administration Review*."
+    description: |
+      Public employees serve the public interest through their work and often extend this commitment through volunteerism. However, it remains unclear what motivates them to volunteer when their professional roles already fulfill intrinsic prosocial motivations. This article examines how public sector workplace experiences, specifically exposure to public participation and job satisfaction, shape volunteering. Using a survey of local government managers in the U.S., this article finds that public employees’ exposure to public participation is positively associated with their volunteering. Job satisfaction increases the probability of non-volunteers becoming volunteers. Additionally, job satisfaction weakens the positive relationship between public participation exposure and volunteering.
+    links:
+      - name: SSRN
+        url: https://ssrn.com/abstract=5297866
+      - name: Online Appendix
+        url: Chen2025sm.pdf
+
+  - title: "Generative AI and Academic Scientists in US universities: Perception, Experience, and Adoption Intentions"
+    author_info: "Wenceslao Arroyo Machado, Jinghuan Ma, Tipeng Chen, Timothy P. Johnson, Shaika Islam, Lesley Michalegko, and Eric Welch. R&R at *PLOS ONE*."
+    description: |
+      The integration of generative Artificial Intelligence (AI) into academia has sparked interest and debate among academic scientists. This paper explores the early adoption and perceptions of US academic scientists regarding the use of generative AI in teaching and research activities. To do so, this analysis focuses exclusively on STEM fields due to their high exposure to rapid technological advancements. Drawing from a nationally representative survey of 232 respondents, we examine academic scientists’ attitudes, experiences, and intentions regarding AI adoption. Results indicate that 65% of respondents have utilized generative AI in teaching or research activities, with 20% applying it in both areas. Among those currently using AI, 84% intend to continue its application, indicating a high level of confidence in its perceived benefits. AI is most frequently used in teaching to develop pedagogical materials (51%) and in research for writing, reviewing, and editing tasks (40%). Despite concerns about misinformation, with 78% of respondents indicating it as their top concern regarding AI, there is broad recognition of AI’s potential impact on society. Most academic scientists have already integrated AI into their academic activities, demonstrating cautious yet optimistic adoption due to perceived risks. Furthermore, there is strong support for academic-led regulation of AI, highlighting the need for responsible governance to maximize benefits while minimizing risks in educational and research settings.
+    links:
+      - name: SSRN
+        url: https://ssrn.com/abstract=5297866
+      - name: Online Appendix
+        url: Chen2025sm.pdf
 
 
 
 peer_reviewed_articles:
 
-  - title:  "Causal Panel Analysis under Parallel Trends: Lessons from A Large Reanalysis Study"
-    author_info: "with Albert Chiu, Xingchen Lan, and Ziyi Liu. *American Political Science Review*, forthcoming"
+  - title:  "Invitation Appeals and STEM Academic Scientists Research Participation: Findings from Six Survey Experiments"
+    author_info: "with Albert Chiu, Xingchen Lan, and Ziyi Liu. *PLOS ONE*, forthcoming"
     description: |
-      Two-way fixed effects (TWFE) models are widely used in political science to establish causality, but recent methodological discussions highlight their limitations under heterogeneous treatment effects (HTE) and violations of the parallel trends (PT) assumption. This growing literature has introduced numerous new estimators and procedures, causing confusion among researchers about the reliability of existing results and best practices. To address these concerns, we replicated and reanalyzed 49 studies from leading journals using TWFE models for observational panel data with binary treatments. Using six HTE-robust estimators, diagnostic tests, and sensitivity analyses, we find: (i) HTE-robust estimators yield qualitatively similar but highly variable results; (ii) while a few studies show clear signs of PT violations, many lack evidence to support this assumption; and (iii) many studies are underpowered when accounting for HTE and potential PT violations. We emphasize the importance of strong research designs and rigorous validation of key identifying assumptions.
+      Survey research is a primary method used to investigate the opinions, perceptions and behaviors of academic scientists. However, little is known about the most successful appeal strategies for eliciting survey participation from these busy, highly educated professionals. Drawing on leverage-salience theory, this study examines the impacts of two sets of invitation appeals—information and representation appeals—on survey response rates among academic scientists in four STEM fields employed at U.S. R1 universities. Findings from six randomized experiments show that the effectiveness of both sets of invitation appeals is mixed and context-dependent, varying based on the polarization and relevance of survey topics, STEM academic scientists’ career stage, and their prior interactions with survey administrators. Specifically, self-representation appeals are most effective for polarized topics when recipients have low community affiliation. Less detailed information appeals are more successful when asking about low relevance topics, particularly for recipients with greater demands on their time, while more detailed information is effective for highly relevant and polarized topics. Additionally, invitations containing more detailed information are effective for first-time recipients in survey panels. This complexity reinforces the importance of designing effective outreach strategies to account for survey topics and recipient characteristics.
     links:
-      - name: Open Access
-        url:  https://www.cambridge.org/core/services/aop-cambridge-core/content/view/219275E0CE901F099F2CFFBA07079243/S0003055425000243a.pdf/causal-panel-analysis-under-parallel-trends-lessons-from-a-large-reanalysis-study.pdf
-      - name: Pre-Print
-        url:  https://yiqingxu.org/papers/english/2023_panel/CLLX.pdf
+      - name: Open Access PDF
+        url: ChenPlosOne2025.pdf 
+      - name: Journal Site
+        url: https://10.1371/journal.pone.0326331
+      - name: Replication Files
+        url: https://doi.org/doi:10.7910/DVN/7YHUBI
+
+  - title:  "Institutional Bricolage in Irrigation Governance in Rural Northwest China: Diversity, Legitimacy, and Persistence"
+    author_info: "Raymond Yu Wang, Tipeng Chen, and Oscar Bin Wang. *Water Alternatives*, 2021, 14(2), 350-370"
+    description: |
+      The emergence and development of diverse institutions is an important yet understudied subject in community-based irrigation governance. Drawing on empirical evidence gathered from 30 administrative villages located in the upstream Yellow River, northwest China, this paper builds on the theoretical perspective of institutional bricolage and adopts an interpretative approach to examining diversity, legitimacy and the persistence of different institutional modalities in the case-study area. It is shown that monocentric, polycentric, bureaucratic and individualised institutions emerge and co-exist in a relatively small area and have been sustained by various sources of legitimacy. Moreover, the process of legitimisation is heterogeneous, as the various institutional modalities have drawn their legitimacy from different sources. These may be both internal and external, synthesise and contradict simultaneously, and change as the irrigation institutions initiate, operate and evolve. The findings connect irrigation institutions with everyday practices, which are non-linear and uncertain, thus bringing about a more nuanced understanding of institutional bricolage and offering more in-depth explanations for the puzzles of why institutions demonstrate different characteristics in similar contexts and why some institutions persist when faced with challenges and tension.
+    links: 
+      - name: Open Access PDF
+        url: Wang&Chen&Wang2021.pdf 
+      - name: Journal Site
+        url: https://www.water-alternatives.org/index.php/alldoc/articles/vol14/v14issue2/632-a14-2-10
+
+  - title:  "Integrating Institutions with Local Contexts in Community-Based Irrigation Governance: A Qualitative Systematic Review of Variables, Combinations, and Effects"
+    author_info: "Raymond Yu Wang and Tipeng Chen. *International Journal of the Commons*, 2021, 15(1), 320- 337"
+    description: |
+      The literature on common-pool resources (CPRs) has mostly focused on institutional conditions for successful governance of the commons. However, many scholars have emphasized that the explanatory power of institutional variables per se is limited and that institutions should not be isolated from the context in which they operate. Consequently, the success of CPR governance requires a more nuanced understanding of specific combinations of institutions in a specific social-ecological context. Using community-based irrigation systems as an example, this paper examines how combinations of institutions and contexts affect irrigation governance based on a qualitative systematic review of 83 English language peer-reviewed articles published since 1990. The review firstly summarizes the basic characteristics, main research subjects, and development trends in the literature on community-based irrigation governance. Then, revealing the specific effects of major combinations of institutional variables and contextual variables on the performance of irrigation governance, the review suggests that (a) the congruence of institutional arrangements with attributes of actors (e.g., group size, group heterogeneity, and social capital), (b) the specific combination of institutions and contexts of resource system and related ecosystems (e.g., hydrology, soil, and agriculture), and (c) the market incentives (e.g., irrigation systems’ spatial proximity to markets) associating with formal governance organizations, are important for improving irrigation governance performance. The main findings not only reveal existing gaps in understanding how institutions and contexts interact in community-based irrigation governance, but also indicate potential pathways to theoretical construction in complex CPR systems by further exploring the relationships between institutions and the contexts in which they operate.
+    links: 
+      - name: Open Access PDF
+        url: Wang&Chen2021.pdf 
+      - name: Journal Site
+        url: https://10.5334/ijc.1108
+
+  - title:  "How Scientists View Vaccine Hesitancy"
+    author_info: "Eric W. Welch, Timothy P. Johnson, Tipeng Chen, Jinghuan Ma, Shaika Islam, Lesley Forst Michalegko, Mattia Caldarulo, and Ashlee Frandell. *Vaccines* 2023, 11(7), 1208"
+    description: |
+      This paper examines possible causes, consequences, and potential solutions for addressing vaccine hesitancy in the United States, focusing on the perspectives of academic scientists. By examining the experiences of scientists, who are arguably a critical community in US society, we gain deeper insights into how they understand the complexities of vaccine hesitancy and whether their insights and opinions converge with or diverge from the current literature. We present findings from a national survey of a representative sample of academic scientists from the fields of biology and public health regarding vaccine hesitancy and related topics. Empirical analysis using descriptive, bivariate, and multivariate analyses covers multiple topics, including vaccine controversy, trust in science, causes of vaccine hesitancy, preferred policy and regulatory approaches, risk perceptions, and scientists’ ethics and perceived communication roles. The results highlight a diversity of opinions within the scientific community regarding how to improve science-society communication in regard to vaccines, including the need to be transparent and candid to the public about the risk of vaccines and their research.
+    links: 
+      - name: Open Access PDF
+        url: Welch2023.pdf 
+      - name: Journal Site
+        url: https://doi.org/10.3390/vaccines11071208
+
+  - title:  "Abortion Rights: Perspectives of Academic Scientists in the United States"
+    author_info: "Ashlee Frandell, Shaika Islam, Tipeng Chen, Mattia Caldarulo, Timothy P. Johnson, Lesley Michalegko, Yidan Zhang, and Eric Welch. *Women's Health Reports*, 2024, 5(1)."
+    description: |
+      In 2022, the US Supreme Court decision in Dobbs v. Jackson Women’s Health Organization to overturn federal law safeguarding abortion rights led to considerable national debate on abortion and reproductive rights. We report the findings of a survey of academic scientists’ perspectives regarding abortion rights, state policies, and the impact of the 2022 Supreme Court decision in Dobbs v. Jackson. Furthermore, we look at how academic scientists’ institutions acted to address the Dobbs decision. Using a 2023 cross-sectional survey, we address the following research questions: (i) What are scientists’ views of abortion rights? (ii) How have scientists responded to the 2022 Supreme Court decision in Dobbs v. Jackson Women’s Health Organization? and (iii) How are their views different from that of the general public with regard to Dobbs v. Jackson and abortion rights in general? Findings show that abortion was a key factor influencing scientists’ voting decisions. We also highlight substantial differences between scientists’ perspectives and those of the general population and reveal gender differences of opinions within the scientific community. We conclude by presenting the actions implemented by universities and scholars in response to the Dobbs decision and discuss the implications our results have for both policy and practice.
+    links: 
+      - name: Open Access PDF
+        url: Frandell2024.pdf 
+      - name: Journal Site
+        url: https://doi.org/10.1089/whr.2024.0041
+
+
 
