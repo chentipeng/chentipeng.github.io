@@ -26,7 +26,7 @@ experience:
  -  # title: Public Service Ethics
     links: 
      - name: Syllabus
-       url: Syllabus_PAF 460 Public Service Ethic_ChenSpring2026.pdf
+       url: /uploads/Syllabus_PAF 460 Public Service Ethic_ChenSpring2026.pdf
         
     description: |2-
 
