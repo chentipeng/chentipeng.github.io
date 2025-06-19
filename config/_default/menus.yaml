@@ -28,6 +28,8 @@ main:
   - name: CV
     url: '/uploads/cv.pdf'
     weight: 50
+    params:
+      target: blank
 
 
 
