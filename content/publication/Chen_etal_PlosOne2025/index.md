@@ -9,7 +9,9 @@ featured: true
 publication: "*PLOS ONE*, forthcoming"
 links: 
 - name: Open Access PDF
-  url: /uploads/ChenPlosOne2025.pdf 
+  url: /uploads/ChenPlosOne2025.pdf
+  params:
+    target: blank
 - name: Journal Site
   url: https://doi.org/10.1371/journal.pone.0326331
 - name: Replication Files
