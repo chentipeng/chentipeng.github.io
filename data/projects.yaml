@@ -72,7 +72,7 @@ projects:
 
     links:
       - name: Website
-        url:  https://sci-ops.org/
+        url:  'https://sci-ops.org/'
         params:
           target: blank
 
