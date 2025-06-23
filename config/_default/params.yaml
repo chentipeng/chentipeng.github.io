@@ -47,7 +47,7 @@ footer:
   copyright:
     #notice: '© {2025} Tipeng Chen. This work is licensed under {license}'
     notice: 'Copyright© {2025} Tipeng Chen. All Rights Reserved.
-    notice: Published with [Hugo Academic](https://github.com/wowchemy/starter-hugo-academic) under [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)'
+      Published with [Hugo Academic](https://github.com/wowchemy/starter-hugo-academic) under [CC BY-SA 4.0 license](http://creativecommons.org/licenses/by-sa/4.0/)'
     license:
       enable: false
       allow_derivatives: false
