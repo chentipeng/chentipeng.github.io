@@ -27,6 +27,8 @@ experience:
     links: 
      - name: Syllabus
        url: /uploads/Syllabus_PAF 460 Public Service Ethic_ChenSpring2026.pdf
+       params:
+        target: blank
         
     description: |2-
 

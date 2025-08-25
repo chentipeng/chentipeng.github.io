@@ -74,5 +74,5 @@ projects:
       - name: SciOPS Website
         url:  "https://sci-ops.org/"
         params:
-          target: "_blank"
+          target: blank
 
