@@ -10,6 +10,8 @@ publication: "*Vaccines, 2023, 11(7), 1208*"
 links: 
 - name: Open Access PDF
   url: /uploads/Welch2023.pdf
+  params:
+    target: blank
 - name: Journal Site
   url: https://doi.org/10.3390/vaccines11071208
 ---
