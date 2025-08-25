@@ -19,9 +19,9 @@ highlight_name: true
 
 interests:
 - Public management
-- Organizational Theory and Behavior
-- Citizen-State Interaction
 - Public Employee Wellbeing
+- Public Participation
+- Organizational Theory and Behavior
 
 organizations:
 - name: Arizona State University
