@@ -18,7 +18,7 @@ email: "tpchen@asu.edu"
 highlight_name: true
 
 interests:
-- Public management
+- Public Management
 - Public Employee Wellbeing
 - Public Participation
 - Organizational Theory and Behavior
