@@ -39,6 +39,8 @@ social:
   icon_pack: ai
   name: Curriculum Vitae
   link: /uploads/cv.pdf
+  params:
+    target: blank
 
 - icon: google-scholar
   icon_pack: ai
