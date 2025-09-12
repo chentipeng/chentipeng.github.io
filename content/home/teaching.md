@@ -81,7 +81,8 @@ experience:
        - Know and apply the prominent theories of leadership to employee situations  
        - Effectively communicate strategies and responses to organizational challenges
 
--  # title: Applied Statistics for Public Service
+
+ -  # title: Applied Statistics for Public Service
     links: 
      - name: Syllabus
        url: /uploads/Syllabus_Applied Statistics_Chen.pdf
@@ -105,8 +106,6 @@ experience:
        - Understand how research, data collection, variable construction, and analysis are socially constructed activities with limitations  
        - Communicate about statistical results for a lay audience
        
-       
-
         
  -  # title: Teaching Assistant
     #links: 
