@@ -60,7 +60,7 @@ experience:
  -  # title: Public Personnel Management
     links: 
      - name: Syllabus
-       url: /uploads/Syllabus_Public Personnel Management_Chen.pdf
+       url: /uploads/Syllabus_PublicPersonnelManagement_Chen.pdf
        params:
         target: blank
         
@@ -85,7 +85,7 @@ experience:
  -  # title: Applied Statistics for Public Service
     links: 
      - name: Syllabus
-       url: /uploads/Syllabus_Applied Statistics_Chen.pdf
+       url: /uploads/Syllabus_AppliedStatistics_Chen.pdf
        params:
         target: blank
         
