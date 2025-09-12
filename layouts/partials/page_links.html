@@ -156,11 +156,17 @@
   {{ end }}
 
 
+    {{/*
+    all link set to be blank link
   {{ if eq .params.target "blank"  | or (in (slice "http" "https") $scheme) }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
   {{ else }}
       {{ $target = "" }}
   {{ end }}
+  */}}
+
+    {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+
 
   <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
     {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}

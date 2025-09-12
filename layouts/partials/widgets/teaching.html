@@ -28,7 +28,7 @@
           <div class="btn-links">
             {{ range $idx, $item := . }}
             <a class="btn btn-outline-primary btn-page-header btn-sm"
-               href="{{ $item.url }}">
+               href="{{ $item.url }}" target="_blank">
               {{ $item.name  | markdownify | emojify }}
             </a>
             {{end}}

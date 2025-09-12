@@ -29,7 +29,7 @@
                 <div class="btn-links">
                     {{ range $idx, $link := . }}
                       <a class="btn btn-outline-primary btn-page-header btn-sm"
-                         href="{{ $link.url }}">
+                         href="{{ $link.url }}" target="_blank">
                           {{ $link.name  | markdownify | emojify }}
                       </a>
                     {{end}}
@@ -62,7 +62,7 @@
                 <div class="btn-links">
                     {{ range $idx, $link := . }}
                       <a class="btn btn-outline-primary btn-page-header btn-sm"
-                         href="{{ $link.url }}">
+                         href="{{ $link.url }}"  target="_blank">
                           {{ $link.name  | markdownify | emojify }}
                       </a>
                     {{end}}
