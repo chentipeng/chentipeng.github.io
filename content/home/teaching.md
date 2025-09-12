@@ -56,6 +56,57 @@ experience:
       <!-- [Lecture 1.](https://www.bilibili.com) Difference-in-Differences and Fixed Effects Models. -->
       
       <!-- [Lecture 2.](https://www.bilibili.com) Synthetic Control and Extensions. -->
+
+ -  # title: Public Personnel Management
+    links: 
+     - name: Syllabus
+       url: /uploads/Syllabus_Public Personnel Management_Chen.pdf
+       params:
+        target: blank
+        
+    description: |2-
+
+      ### Public Personnel Management
+
+       ###### Overview
+
+       This course examines public sector human resources management policies and systems. Students will learn about the role and dynamics of public human resources systems, and how systems, policies, and rules reflect and support the public values in a democratic system, including managerial efficiency and effectiveness, as well as the democratic values of equity, representation, and accountability. This course also covers key topics of organizational theory and behavior in the public sector, including public service motivation, group behavior, leadership, and performance. Upon completion, this course will provide a foundation that will benefit students in both their studies of public administration and their professional careers.
+
+       ###### Course Objectives
+
+       - Describe the role of human resource management in the public sector  
+       - Understand the goals and tools of goal setting, public personnel appraisals, and performance management  
+       - Understand the recruitment and retention challenges, as well as compensation and benefit options in the public sector  
+       - Demonstrate the capacity to effectively address managerial issues, including: a) Employee need and motivation; b) Employee morale, attitudes, and behaviors; c) Communication; and d) Diversity and inclusion 
+       - Know and apply the prominent theories of leadership to employee situations  
+       - Effectively communicate strategies and responses to organizational challenges
+
+-  # title: Applied Statistics for Public Service
+    links: 
+     - name: Syllabus
+       url: /uploads/Syllabus_Applied Statistics_Chen.pdf
+       params:
+        target: blank
+        
+    description: |2-
+
+      ### Applied Statistics for Public Service
+
+       ###### Overview
+
+        Statistics is the study of how best to collect, analyze, and draw conclusions from data to solve a problem. Policymakers use evidence from big data and statistics to assist their decision-making for social problems. Scientists seek to understand the world by carefully collecting data and using rigorous statistical analysis. This course is designed to provide students with the skills and knowledge necessary to collect, understand, analyze, interpret, and criticize datasets for the purpose of studying and understanding public service. At the end of this course, students will learn basic concepts of statistics, data, and statistical inference. Students will also have the skills to conduct basic analyses of data in R software. Throughout the course, students will be expected to connect the statistical skills they learn with their own interests in public service problems.
+
+       ###### Course Objectives
+
+       - Understand and use elementary statistics (descriptive statistics, statistical inference, etc.) to explore, describe, and analyze problems in public service settings  
+       - Understand basic concepts of statistics, including confidence interval, probability, sampling, and regression  
+       - Locate, download, import, and analyze secondary data for public service  
+       - Use statistical software, such as R, to clean and analyze quantitative data
+       - Understand how research, data collection, variable construction, and analysis are socially constructed activities with limitations  
+       - Communicate about statistical results for a lay audience
+       
+       
+
         
  -  # title: Teaching Assistant
     #links: 
