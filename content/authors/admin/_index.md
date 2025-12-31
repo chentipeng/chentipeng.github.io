@@ -5,8 +5,8 @@ education:
   courses:
   - course: Ph.D. in Public Administration and Policy
     institution:  School of Public Affairs, Arizona State University, USA
-    year: 2026 (expected)
-  - course: M.Mgmt.Sc. in Public Administration 
+    year: May 2026 (expected)
+  - course: M.Sci. in Public Administration 
     institution:  School of Government, Sun Yat-sen University, China
     year: 2022
   - course: B.Mgmt. in Public Administration
@@ -19,7 +19,7 @@ highlight_name: true
 
 interests:
 - Public Management
-- Public Employee Wellbeing
+- Public Personnel Management
 - Public Participation
 - Organizational Theory and Behavior
 
@@ -78,7 +78,7 @@ title: Tipeng Chen 陈逖鹏
 
 I am a Ph.D. candidate in Public Administration and Policy at the [School of Public Affairs](https://spa.asu.edu/), Arizona State University, and a Graduate Research Assistant in the Center for Science, Technology and Environmental Policy Studies ([CSTEPS](https://csteps.asu.edu/)).
 
-My research focuses on public management, citizen–state interaction, public employee well-being, local government, and climate adaptation. My dissertation examines how public participation and community outreach shape public employees’ psychological states and workplace behaviors. In addition, my ongoing projects explore how public organizations respond to external uncertainties, such as extreme weather events and emerging technologies, to ensure organizational resilience and sustain public service delivery. I am also interested in survey and experimental methods. My work has been published in interdisciplinary outlets, such as *PlOS ONE*, *International Journal of the Commons*, *Water Alternatives*, *Vaccines*, and *Women's Health Reports*.
+My research focuses on public management, public personnel management, public participation, local government, and climate adaptation. My dissertation examines how public participation and community outreach shape public employees’ psychological states and workplace behaviors. In addition, my ongoing projects explore how public organizations respond to external uncertainties, such as extreme weather events and emerging technologies, to ensure organizational resilience and sustain public service delivery. I am also interested in survey and experimental methods. My work has been published in interdisciplinary outlets, such as *PlOS ONE*, *International Journal of the Commons*, *Water Alternatives*, *Vaccines*, and *Women's Health Reports*.
 
 Prior to joining ASU, I received my master's degree and bachelor's degree from Sun Yat-sen University in 2022 and 2019. My previous research centered on common-pool resources governance and institutional analysis, with a specific focus on water resources.
 
