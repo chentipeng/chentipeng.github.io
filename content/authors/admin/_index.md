@@ -85,6 +85,8 @@ My recent work has been published in the leading journal *Public Administration 
 
 My research has been supported by the Kern Family Foundation, the ASU Dissertation Completion Fellowship, the China-American Association for Public Affairs ([CAAPA](https://wp.china-uspublicaffairs.org/)) Dissertation Fellowship, the Association for Public Policy Analysis and Management ([APPAM](https://www.appam.org/)) Equity & Inclusion Student Fellowship, ASU JumpStart Grants, and the ASU Graduate Student Research Support Award. Prior to joining ASU, I earned my master’s and bachelor’s degrees from Sun Yat-sen University in 2022 and 2019, respectively.
 
+My name is pronounced like /tee-pəŋ chən/.
+
 Please feel free to reach me at tpchen [at] asu [dot] edu.
 
 <!--
