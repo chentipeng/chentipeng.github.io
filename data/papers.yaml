@@ -1,21 +1,7 @@
 working_papers:
 
-  - title: "Contracting Responses to Extreme Weather Events in Public Organizations"
-    author_info: "Tipeng Chen & Eric Welch. R&R at *Public Administration Review*."
-    description: |
-      Public organizations facing emergencies often coordinate with other local public and non-profit organizations for assistance and response. Yet we know little about the contractual relationships public organizations build with external organizations for emergency responses. Drawing from organizational theories, we explore three organizational factors behind public organization decisions to contract for responses to extreme weather events. Results from agency-level analysis using merged data from three national data sources show that higher levels of managerial uncertainty about extreme weather events are associated with lower contracting for immediate emergency responses, and very high levels of uncertainty are positively associated with contracting for long-term emergency planning. Additionally, greater reliance on contracting for daily services and receipt of dedicated financial resources for extreme weather events are associated with increased contracting for long-term planning. We connect our findings with the contracting and emergency management literatures and discuss limitations and practical implications.
-    links:
-      - name: SSRN
-        url: https://ssrn.com/abstract=5297874
-        params:
-          target: blank 
-      - name: Online Appendix
-        url: /uploads/Chen&Welch2025sm.pdf
-        params:
-          target: blank
-
   - title: "Serving the Public as Civil Servants or Citizens? Public Employees’ Exposure to Public Participation, Job Satisfaction, and Volunteering"
-    author_info: "Tipeng Chen. Under review at *Public Administration*."
+    author_info: "Tipeng Chen. R&R at *Review of Public Personnel Administration*."
     description: |
       Public employees serve the public interest through their work and often extend this commitment through volunteerism. However, it remains unclear what motivates them to volunteer when their professional roles already fulfill intrinsic prosocial motivations. This article examines how public sector workplace experiences, specifically exposure to public participation and job satisfaction, shape volunteering. Using a survey of local government managers in the U.S., this article finds that public employees’ exposure to public participation is positively associated with their volunteering. Job satisfaction increases the probability of non-volunteers becoming volunteers. Additionally, job satisfaction weakens the positive relationship between public participation exposure and volunteering.
     links:
@@ -30,6 +16,20 @@ working_papers:
 
 
 peer_reviewed_articles:
+
+  - title: "Contracting Services for Response to Extreme WeatherEvents in Public Organizations"
+    author_info: "Tipeng Chen & Eric Welch. *Public Administration Review*, 2026."
+    description: |
+      Public organizations facing emergencies often coordinate with other local public and non-profit organizations for assistance.Yet we know little about the contractual relationships public organizations build with external organizations for emergencyresponses. Drawing from organizational theories, we explore organizational factors behind public organization decisions to con-tract for responses to extreme weather events. Using agency-level data merged from three national sources, we find an invertedU-shaped relationship between organizational uncertainty about extreme weather events and contracting for immediate emer-gency responses: contracting is most likely at a moderate level of uncertainty and least likely at a very high level. Greater relianceon contracting for daily services is associated with increased contracting for long-term emergency planning, while receipt ofdedicated financial resources is associated with increased contracting for both immediate emergency responses and long-termemergency planning. We connect findings with the contracting and emergency management literatures and discuss implicationsfor practice.
+    links:
+      - name: Journal Site
+        url: https://doi.org/10.1111/puar.70135
+        params:
+          target: blank 
+      - name: Replication Files
+        url: https://doi.org/10.7910/DVN/KBLQA7
+        params:
+          target: blank
 
   - title:  "Invitation Appeals and STEM Academic Scientists Research Participation: Findings from Six Survey Experiments"
     author_info: "Tipeng Chen, Timothy P. Johnson, Jinghuan Ma, Ashlee Frandell, Lesley Michalegko, and Eric W. Welch. *PLOS ONE*, 2025, 20(6): e0326331 "
