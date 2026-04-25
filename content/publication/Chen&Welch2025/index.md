@@ -8,10 +8,10 @@ abstract: "Public organizations facing emergencies often coordinate with other l
 featured: true
 publication: "*Forthcoming at Public Administration Review*"
 links: 
-- name: SSRN
+- name: Journal Site
   url: https://doi.org/10.1111/puar.70135
-- name: Online Appendix
-  url: /uploads/Chen&Welch2025sm.pdf
+- name: Replication Files
+  url: https://doi.org/10.7910/DVN/KBLQA7
   params:
     target: blank
 ---
