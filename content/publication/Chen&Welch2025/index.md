@@ -10,6 +10,8 @@ publication: "*Public Administration Review, 2026*"
 links: 
 - name: Journal Site
   url: https://doi.org/10.1111/puar.70135
+  params:
+    target: blank
 - name: Replication Files
   url: https://doi.org/10.7910/DVN/KBLQA7
   params:
