@@ -9,7 +9,7 @@ featured: true
 publication: "*PLoS One, 2025, 20(8): e0330416*"
 links: 
   - name: Open Access PDF
-    url: /uploads/Wencheslao2025.pdf
+    url: /uploads/Wenceslao2025.pdf
     params:
       target: blank
   - name: Journal Site
