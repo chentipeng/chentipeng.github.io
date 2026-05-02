@@ -19,9 +19,9 @@ highlight_name: true
 
 interests:
 - Public Management
-- Public Personnel Management
-- Public Participation
 - Organizational Theory and Behavior
+- Public Personnel Management
+- Citizen-state Interaction
 - Climate Adaptation
 
 organizations:
