@@ -1,5 +1,5 @@
 ---
-title: "Contracting Services for Response to Extreme WeatherEvents in Public Organizations"
+title: "Contracting Services for Response to Extreme Weather Events in Public Organizations"
 date: 2026-04-24
 publishDate: 2026-04-24
 authors: ["Tipeng Chen", "Eric W. Welch"]
