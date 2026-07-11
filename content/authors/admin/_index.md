@@ -18,7 +18,7 @@ email: "tpchen@asu.edu"
 highlight_name: true
 
 interests:
-- Public Administration and Management
+- Public Administration
 - Organizational Theory and Behavior
 - Bureaucracy
 - Citizen-state Interaction
@@ -79,7 +79,7 @@ title: Tipeng Chen 陈逖鹏
 
 I am a Ph.D. candidate in Public Administration and Policy at the [School of Public Affairs](https://spa.asu.edu/) and the Center for Science, Technology and Environmental Policy Studies ([CSTEPS](https://csteps.asu.edu/)) at Arizona State University.
 
-I am a public management scholar using interdisciplinary theories and mixed methods (experimental, quasi-experimental, and qualitative) to study how bureaucrats and public agencies address managerial challenges arising from citizen–state interactions and environmental change, with the practical aim of enhancing the resilience of the public sector workforce and organizations. My dissertation examines how organizational-level community outreach activities shape public employees' motivation, identity, and behaviors. A second research agenda examines how public organizations develop managerial strategies to address complex challenges associated with environmental risks. 
+I am a public administration scholar using organizational and behavioral theories and mixed methods (experimental, quasi-experimental, and qualitative) to study how bureaucrats and public agencies address managerial challenges arising from citizen–state interactions and environmental change. My work offers practical implications for enhancing the resilience of the public sector workforce and organizations. My dissertation examines how organizational-level community outreach activities shape public employees' motivation, identity, and behaviors. A second research agenda examines how public organizations develop managerial strategies to address complex challenges associated with environmental risks. 
 
 My recent work has been published in the leading journal *Public Administration Review*, with ongoing works in revision at *Review of Public Personnel Administration* and under review at other top-tier public administration journals. I have also published in interdisciplinary outlets with strong policy relevance on environment, science, and technology topics, including *PLOS ONE*, *International Journal of the Commons*, *Water Alternatives*, *Vaccines*, and *Women's Health Reports*.
 
