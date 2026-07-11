@@ -22,7 +22,7 @@ interests:
 - Organizational Theory and Behavior
 - Bureaucracy
 - Citizen-state Interaction
-- Climate Adaptation
+- Environmental Change Adaptation
 
 organizations:
 - name: Arizona State University
