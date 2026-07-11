@@ -5,7 +5,7 @@ education:
   courses:
   - course: Ph.D. in Public Administration and Policy
     institution:  School of Public Affairs, Arizona State University, USA
-    year: 2026 (expected)
+    year: May, 2027 (expected)
   - course: M.Sci. in Public Administration 
     institution:  School of Government, Sun Yat-sen University, China
     year: 2022
@@ -18,7 +18,7 @@ email: "tpchen@asu.edu"
 highlight_name: true
 
 interests:
-- Public Management
+- Public Administration and Management
 - Organizational Theory and Behavior
 - Bureaucracy
 - Citizen-state Interaction
@@ -79,11 +79,13 @@ title: Tipeng Chen 陈逖鹏
 
 I am a Ph.D. candidate in Public Administration and Policy at the [School of Public Affairs](https://spa.asu.edu/) and the Center for Science, Technology and Environmental Policy Studies ([CSTEPS](https://csteps.asu.edu/)) at Arizona State University.
 
-I am a public management scholar using interdisciplinary theories and mixed methods (experimental, quasi-experimental, and qualitative) to study how bureaucrats and public agencies address managerial challenges arising from crises related to citizen–state interactions and environmental change, with the practical aim of enhancing the resilience of the public sector workforce and organizations. My dissertation examines how organizational-level community outreach activities shape public employees' motivation, identity, and behaviors. A second research agenda examines how public organizations develop managerial strategies to address complex challenges associated with environmental risk. 
+I am a public management scholar using interdisciplinary theories and mixed methods (experimental, quasi-experimental, and qualitative) to study how bureaucrats and public agencies address managerial challenges arising from citizen–state interactions and environmental change, with the practical aim of enhancing the resilience of the public sector workforce and organizations. My dissertation examines how organizational-level community outreach activities shape public employees' motivation, identity, and behaviors. A second research agenda examines how public organizations develop managerial strategies to address complex challenges associated with environmental risks. 
 
-My recent work has been published in the leading journal *Public Administration Review*, with ongoing works under revision at *Review of Public Personnel Administration*. I have also published in interdisciplinary outlets with strong policy relevance, such as *PlOS ONE*, *International Journal of the Commons*, *Water Alternatives*, *Vaccines*, and *Women's Health Reports*.
+My recent work has been published in the leading journal *Public Administration Review*, with ongoing works in revision at *Review of Public Personnel Administration* and under review at *Journal of Public Administration Research and Theory*. I have also published in interdisciplinary outlets with strong policy relevance on environment, science, and technology topics, including *PLOS ONE*, *International Journal of the Commons*, *Water Alternatives*, *Vaccines*, and *Women's Health Reports*.
 
-My research has been supported by the Kern Family Foundation, the ASU Dissertation Completion Fellowship, the China-American Association for Public Affairs ([CAAPA](https://wp.china-uspublicaffairs.org/)) Dissertation Fellowship, the Association for Public Policy Analysis and Management ([APPAM](https://www.appam.org/)) Equity & Inclusion Student Fellowship, ASU JumpStart Grants, and the ASU Graduate Student Research Support Award. Prior to joining ASU, I earned my master’s and bachelor’s degrees from Sun Yat-sen University in 2022 and 2019, respectively.
+I recently received the Staats Emerging Scholars Award from the Network of Schools of Public Policy, Affairs, and Administration (NASPAA) and the Paul Volcker Junior Scholar Research Grant from the American Political Science Association (APSA).
+
+My research has also been supported by other grants and fellowships, including the Kern Family Foundation, the ASU Dissertation Completion Fellowship, the China-America Association for Public Affairs ([CAAPA](https://wp.china-uspublicaffairs.org/)) Dissertation Fellowship, the Association for Public Policy Analysis and Management ([APPAM](https://www.appam.org/)) Equity & Inclusion Student Fellowship, ASU JumpStart Grants, and the ASU Graduate Student Research Support Award. Prior to joining ASU, I earned my master’s and bachelor’s degrees from Sun Yat-sen University in 2022 and 2019, respectively.
 
 My name is pronounced like /tee-pəŋ chən/.
 
