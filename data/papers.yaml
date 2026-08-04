@@ -1,7 +1,15 @@
 working_papers:
 
+  - title: "When Democracy Empowers Bureaucracy: Public Engagement and Organizational Identification Among Top Managers."
+    author_info: "Tipeng Chen. Under Review. *Manuscript Available Upon Request*"
+    description: |
+      Public managers' psychological attachment to their organizations is critical for leveraging their managerial talent, yet it is increasingly challenged by social and political pressures on agency reputation and independence. Drawing on social identity theory and the organizational identification literature, this study examines how organizational-level engagement with community members fosters organizational identification among top managers and explores the boundary conditions of this relationship. Using fixed-effect and instrumental-variable specifications and a four-wave, biannual, nationally representative survey (2012–2018) of municipal department heads in U.S. local governments, we find that a higher frequency of public engagement at the organizational level increases top managers' organizational identification. This positive association is contingent on the type of public input received. These findings go beyond the conventional wisdom that views public engagement as a normative, instrumental, or legal mechanism for building community-government relationships and offer an intraorganizational perspective on its understudied role in psychologically rewarding and empowering upper-echelon managers.
+
+
+peer_reviewed_articles:
+
   - title: "Serving the Public as Civil Servants or Citizens? Public Employees’ Exposure to Public Participation, Job Satisfaction, and Volunteering"
-    author_info: "Tipeng Chen. R&R at *Review of Public Personnel Administration*."
+    author_info: "Tipeng Chen. Accepted by *Review of Public Personnel Administration*."
     description: |
       Public employees serve the public interest through their work and often extend this commitment through volunteerism. However, it remains unclear what motivates them to volunteer when their professional roles already fulfill intrinsic prosocial motivations. This article examines how public sector workplace experiences, specifically exposure to public participation and job satisfaction, shape volunteering. Using a survey of local government managers in the U.S., this article finds that public employees’ exposure to public participation is positively associated with their volunteering. Job satisfaction increases the probability of non-volunteers becoming volunteers. Additionally, job satisfaction weakens the positive relationship between public participation exposure and volunteering.
     links:
@@ -13,14 +21,6 @@ working_papers:
         url: /uploads/Chen2025sm.pdf
         params:
           target: blank
-
-  - title: "When Democracy Empowers Bureaucracy: Public Engagement and Organizational Identification Among Top Managers."
-    author_info: "Tipeng Chen. Under Review. *Manuscript Available Upon Request*"
-    description: |
-      Public managers' psychological attachment to their organizations is critical for leveraging their managerial talent, yet it is increasingly challenged by social and political pressures on agency reputation and independence. Drawing on social identity theory and the organizational identification literature, this study examines how organizational-level engagement with community members fosters organizational identification among top managers and explores the boundary conditions of this relationship. Using fixed-effect and instrumental-variable specifications and a four-wave, biannual, nationally representative survey (2012–2018) of municipal department heads in U.S. local governments, we find that a higher frequency of public engagement at the organizational level increases top managers' organizational identification. This positive association is contingent on the type of public input received. These findings go beyond the conventional wisdom that views public engagement as a normative, instrumental, or legal mechanism for building community-government relationships and offer an intraorganizational perspective on its understudied role in psychologically rewarding and empowering upper-echelon managers.
-
-
-peer_reviewed_articles:
 
   - title: "Contracting Services for Response to Extreme Weather Events in Public Organizations"
     author_info: "Tipeng Chen & Eric Welch. *Public Administration Review*, 2026."

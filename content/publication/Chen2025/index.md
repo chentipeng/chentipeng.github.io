@@ -6,7 +6,7 @@ authors: ["Tipeng Chen"]
 publication_types: ["3"]
 abstract: "Public employees serve the public interest through their work and often extend this commitment through volunteerism. However, it remains unclear what motivates them to volunteer when their professional roles already fulfill intrinsic prosocial motivations. This article examines how public sector workplace experiences, specifically exposure to public participation and job satisfaction, shape volunteering. Using a survey of local government managers in the U.S., this article finds that public employees’ exposure to public participation is positively associated with their volunteering. Job satisfaction increases the probability of non-volunteers becoming volunteers. Additionally, job satisfaction weakens the positive relationship between public participation exposure and volunteering."
 featured: true
-publication: "*R&R at Review of Public Personnel Administration*"
+publication: "*Accepted by Review of Public Personnel Administration*"
 links: 
 - name: SSRN
   url: https://ssrn.com/abstract=5297866
