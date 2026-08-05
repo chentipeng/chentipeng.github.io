@@ -77,7 +77,7 @@ title: Tipeng Chen 陈逖鹏
 ---
 
 
-I am a Ph.D. candidate in Public Administration and Policy at the [School of Public Affairs](https://spa.asu.edu/) and the Center for Science, Technology and Environmental Policy Studies ([CSTEPS](https://csteps.asu.edu/)) at Arizona State University.
+I am a Ph.D. candidate in Public Administration and Policy at the [School of Public Affairs](https://spa.asu.edu/) and the Center for Science, Technology and Environmental Policy Studies ([CSTEPS](https://csteps.asu.edu/)) at Arizona State University. **I am on the 2026–27 academic job market.**
 
 I am a public administration scholar using organizational and behavioral theories and mixed methods (experimental, quasi-experimental, and qualitative) to study how bureaucrats and public agencies address managerial challenges arising from citizen–state interactions and environmental change. My work offers practical implications for enhancing the resilience of the public sector workforce and organizations. My dissertation examines how organizational-level community outreach activities shape public employees' motivation, identity, and behaviors. A second research agenda examines how public organizations develop managerial strategies to address complex challenges associated with environmental risks. 
 
