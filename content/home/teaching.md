@@ -32,8 +32,11 @@ experience:
         
     description: |2-
 
-      ### PAF 460: Public Service Ethics _(Spring 2026)_
+      ### PAF 460: Public Service Ethics
 
+       Spring 2026 (In person) | Enrollment: 33 | Mean evaluation: 4.3 / 5.0 
+       Summer 2026 (Asynchronous onlin) | Enrollment: 42 | Mean evaluation: 4.5 / 5.0
+       
        ###### Overview
 
        Ethical dilemmas are a recurring challenge across various sectors, including business, education, technology, and public service. From questions about data privacy and artificial intelligence to public scandals involving misuse of power, ethics remain a central concern in public life. Public organizations, in particular, are under constant scrutiny as the actions of public officials carry significant moral and societal implications.
