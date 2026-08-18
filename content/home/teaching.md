@@ -34,9 +34,9 @@ experience:
 
       ### PAF 460: Public Service Ethics
 
-       Spring 2026 (In person) | Enrollment: 33 | Overall rating: 4.3 / 5.0 
+       Spring 2026 (In person) | Enrollment: 33 | Mean evaluation: 4.3 / 5.0 
 
-       Summer 2026 (Asynchronous online) | Enrollment: 42 | Overall rating: 4.5 / 5.0
+       Summer 2026 (Asynchronous online) | Enrollment: 42 | Mean evaluation: 4.5 / 5.0
        
        ###### Overview
 
