@@ -20,7 +20,7 @@ highlight_name: true
 interests:
 - Public Administration
 - Organizational Theory and Behavior
-- Bureaucracy
+- Local Government Management
 - Citizen-state Interaction
 - Environmental Change Adaptation
 
