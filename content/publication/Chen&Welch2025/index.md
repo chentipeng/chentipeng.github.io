@@ -16,5 +16,9 @@ links:
   url: https://doi.org/10.7910/DVN/KBLQA7
   params:
     target: blank
+- name: Online Appendix
+  url: /uploads/Chen&Welch2025sm.pdf
+  params:
+    target: blank
 ---
 
