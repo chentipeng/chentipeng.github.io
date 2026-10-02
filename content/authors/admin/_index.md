@@ -18,11 +18,10 @@ email: "tpchen@asu.edu"
 highlight_name: true
 
 interests:
-- Public Administration
+- Public Administration and Management
 - Organizational Theory and Behavior
-- Local Government Management
-- Citizen-state Interaction
-- Organization and Environment
+- Public Participation
+- Organization and Natural Environment
 
 organizations:
 - name: Arizona State University
